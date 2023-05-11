@@ -29,11 +29,12 @@
     }
 
     .header-right {
-        grid-column: 11/12;
+        grid-column: 12/12;
         display: flex;
         flex-direction: column;
         width: 75px;
         margin-top: 44px;
+        margin-right: 66.5px;
 
         div {
             width: 100%;
@@ -106,7 +107,7 @@
     flex-direction: row;
     gap: 23px;
     align-items: center;
-    margin-top: 147.9px;
+    margin-top: 133px;
     margin-right: 52px;
     margin-bottom: 82px;
 
